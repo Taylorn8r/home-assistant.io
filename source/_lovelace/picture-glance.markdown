@@ -167,5 +167,5 @@ entities:
 state_image:
   "on": /local/living_room_on.png
   "off": /local/living_room_off.png
-entity: group.living.room
+entity: group.living_room
 ```
